@@ -1,0 +1,11 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Since I started the Nanodegree before this new changes and the extra projects added, I guess that this new modules are kind of a review.It's been quite easy but there is always something new that you can learn, for example I didn't new abour the Markdown syntax, that's very usefull. I also hadn't used the figure or the figcaption tabs.
+
+The way I've used the strategies is that I study at different places, I can focus that well If a stay at home. I also google any doubts I have, there is a lot of help over the internet.
